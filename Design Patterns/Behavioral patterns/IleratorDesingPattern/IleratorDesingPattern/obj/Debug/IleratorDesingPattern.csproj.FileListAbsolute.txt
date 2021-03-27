@@ -1,0 +1,7 @@
+C:\Users\KUTLUHAN KEMAL\source\repos\IleratorDesingPattern\IleratorDesingPattern\bin\Debug\IleratorDesingPattern.exe.config
+C:\Users\KUTLUHAN KEMAL\source\repos\IleratorDesingPattern\IleratorDesingPattern\bin\Debug\IleratorDesingPattern.exe
+C:\Users\KUTLUHAN KEMAL\source\repos\IleratorDesingPattern\IleratorDesingPattern\bin\Debug\IleratorDesingPattern.pdb
+C:\Users\KUTLUHAN KEMAL\source\repos\IleratorDesingPattern\IleratorDesingPattern\obj\Debug\IleratorDesingPattern.csprojAssemblyReference.cache
+C:\Users\KUTLUHAN KEMAL\source\repos\IleratorDesingPattern\IleratorDesingPattern\obj\Debug\IleratorDesingPattern.csproj.CoreCompileInputs.cache
+C:\Users\KUTLUHAN KEMAL\source\repos\IleratorDesingPattern\IleratorDesingPattern\obj\Debug\IleratorDesingPattern.exe
+C:\Users\KUTLUHAN KEMAL\source\repos\IleratorDesingPattern\IleratorDesingPattern\obj\Debug\IleratorDesingPattern.pdb

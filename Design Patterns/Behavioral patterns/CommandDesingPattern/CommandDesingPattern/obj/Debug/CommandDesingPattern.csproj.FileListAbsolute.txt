@@ -1,0 +1,7 @@
+C:\Users\KUTLUHAN KEMAL\source\repos\CommandDesingPattern\CommandDesingPattern\bin\Debug\CommandDesingPattern.exe.config
+C:\Users\KUTLUHAN KEMAL\source\repos\CommandDesingPattern\CommandDesingPattern\bin\Debug\CommandDesingPattern.exe
+C:\Users\KUTLUHAN KEMAL\source\repos\CommandDesingPattern\CommandDesingPattern\bin\Debug\CommandDesingPattern.pdb
+C:\Users\KUTLUHAN KEMAL\source\repos\CommandDesingPattern\CommandDesingPattern\obj\Debug\CommandDesingPattern.csprojAssemblyReference.cache
+C:\Users\KUTLUHAN KEMAL\source\repos\CommandDesingPattern\CommandDesingPattern\obj\Debug\CommandDesingPattern.csproj.CoreCompileInputs.cache
+C:\Users\KUTLUHAN KEMAL\source\repos\CommandDesingPattern\CommandDesingPattern\obj\Debug\CommandDesingPattern.exe
+C:\Users\KUTLUHAN KEMAL\source\repos\CommandDesingPattern\CommandDesingPattern\obj\Debug\CommandDesingPattern.pdb

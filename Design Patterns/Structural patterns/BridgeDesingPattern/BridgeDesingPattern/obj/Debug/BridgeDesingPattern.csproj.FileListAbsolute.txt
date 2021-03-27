@@ -1,0 +1,7 @@
+C:\Users\Ankabeta\source\repos\BridgeDesingPattern\BridgeDesingPattern\bin\Debug\BridgeDesingPattern.exe.config
+C:\Users\Ankabeta\source\repos\BridgeDesingPattern\BridgeDesingPattern\bin\Debug\BridgeDesingPattern.exe
+C:\Users\Ankabeta\source\repos\BridgeDesingPattern\BridgeDesingPattern\bin\Debug\BridgeDesingPattern.pdb
+C:\Users\Ankabeta\source\repos\BridgeDesingPattern\BridgeDesingPattern\obj\Debug\BridgeDesingPattern.csprojAssemblyReference.cache
+C:\Users\Ankabeta\source\repos\BridgeDesingPattern\BridgeDesingPattern\obj\Debug\BridgeDesingPattern.csproj.CoreCompileInputs.cache
+C:\Users\Ankabeta\source\repos\BridgeDesingPattern\BridgeDesingPattern\obj\Debug\BridgeDesingPattern.exe
+C:\Users\Ankabeta\source\repos\BridgeDesingPattern\BridgeDesingPattern\obj\Debug\BridgeDesingPattern.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ankabeta\source\repos\PrototypeDesingPattern\PrototypeDesingPattern\obj\Debug\PrototypeDesingPattern.csprojAssemblyReference.cache
+C:\Users\Ankabeta\source\repos\PrototypeDesingPattern\PrototypeDesingPattern\obj\Debug\PrototypeDesingPattern.csproj.CoreCompileInputs.cache
+C:\Users\Ankabeta\source\repos\PrototypeDesingPattern\PrototypeDesingPattern\bin\Debug\PrototypeDesingPattern.exe.config
+C:\Users\Ankabeta\source\repos\PrototypeDesingPattern\PrototypeDesingPattern\bin\Debug\PrototypeDesingPattern.exe
+C:\Users\Ankabeta\source\repos\PrototypeDesingPattern\PrototypeDesingPattern\bin\Debug\PrototypeDesingPattern.pdb
+C:\Users\Ankabeta\source\repos\PrototypeDesingPattern\PrototypeDesingPattern\obj\Debug\PrototypeDesingPattern.exe
+C:\Users\Ankabeta\source\repos\PrototypeDesingPattern\PrototypeDesingPattern\obj\Debug\PrototypeDesingPattern.pdb

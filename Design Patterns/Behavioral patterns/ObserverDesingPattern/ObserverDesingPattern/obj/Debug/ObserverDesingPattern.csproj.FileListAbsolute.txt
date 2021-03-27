@@ -1,0 +1,7 @@
+C:\Users\Ankabeta\source\repos\ObserverDesingPattern\ObserverDesingPattern\bin\Debug\ObserverDesingPattern.exe.config
+C:\Users\Ankabeta\source\repos\ObserverDesingPattern\ObserverDesingPattern\bin\Debug\ObserverDesingPattern.exe
+C:\Users\Ankabeta\source\repos\ObserverDesingPattern\ObserverDesingPattern\bin\Debug\ObserverDesingPattern.pdb
+C:\Users\Ankabeta\source\repos\ObserverDesingPattern\ObserverDesingPattern\obj\Debug\ObserverDesingPattern.csprojAssemblyReference.cache
+C:\Users\Ankabeta\source\repos\ObserverDesingPattern\ObserverDesingPattern\obj\Debug\ObserverDesingPattern.csproj.CoreCompileInputs.cache
+C:\Users\Ankabeta\source\repos\ObserverDesingPattern\ObserverDesingPattern\obj\Debug\ObserverDesingPattern.exe
+C:\Users\Ankabeta\source\repos\ObserverDesingPattern\ObserverDesingPattern\obj\Debug\ObserverDesingPattern.pdb

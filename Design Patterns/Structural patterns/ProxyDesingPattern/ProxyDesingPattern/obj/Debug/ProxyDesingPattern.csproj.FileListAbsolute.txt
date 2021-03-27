@@ -1,0 +1,7 @@
+C:\Users\Ankabeta\source\repos\ProxyDesingPattern\ProxyDesingPattern\bin\Debug\ProxyDesingPattern.exe.config
+C:\Users\Ankabeta\source\repos\ProxyDesingPattern\ProxyDesingPattern\bin\Debug\ProxyDesingPattern.exe
+C:\Users\Ankabeta\source\repos\ProxyDesingPattern\ProxyDesingPattern\bin\Debug\ProxyDesingPattern.pdb
+C:\Users\Ankabeta\source\repos\ProxyDesingPattern\ProxyDesingPattern\obj\Debug\ProxyDesingPattern.csprojAssemblyReference.cache
+C:\Users\Ankabeta\source\repos\ProxyDesingPattern\ProxyDesingPattern\obj\Debug\ProxyDesingPattern.csproj.CoreCompileInputs.cache
+C:\Users\Ankabeta\source\repos\ProxyDesingPattern\ProxyDesingPattern\obj\Debug\ProxyDesingPattern.exe
+C:\Users\Ankabeta\source\repos\ProxyDesingPattern\ProxyDesingPattern\obj\Debug\ProxyDesingPattern.pdb

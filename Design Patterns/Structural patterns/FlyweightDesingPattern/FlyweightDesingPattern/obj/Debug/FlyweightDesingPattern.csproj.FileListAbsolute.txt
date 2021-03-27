@@ -1,0 +1,6 @@
+C:\Users\Ankabeta\source\repos\FlyweightDesingPattern\FlyweightDesingPattern\obj\Debug\FlyweightDesingPattern.csproj.CoreCompileInputs.cache
+C:\Users\Ankabeta\source\repos\FlyweightDesingPattern\FlyweightDesingPattern\bin\Debug\FlyweightDesingPattern.exe.config
+C:\Users\Ankabeta\source\repos\FlyweightDesingPattern\FlyweightDesingPattern\bin\Debug\FlyweightDesingPattern.exe
+C:\Users\Ankabeta\source\repos\FlyweightDesingPattern\FlyweightDesingPattern\bin\Debug\FlyweightDesingPattern.pdb
+C:\Users\Ankabeta\source\repos\FlyweightDesingPattern\FlyweightDesingPattern\obj\Debug\FlyweightDesingPattern.exe
+C:\Users\Ankabeta\source\repos\FlyweightDesingPattern\FlyweightDesingPattern\obj\Debug\FlyweightDesingPattern.pdb

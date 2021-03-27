@@ -1,0 +1,7 @@
+C:\Users\Ankabeta\source\repos\AdapterDesingPattern\AdapterDesingPattern\obj\Debug\AdapterDesingPattern.csprojAssemblyReference.cache
+C:\Users\Ankabeta\source\repos\AdapterDesingPattern\AdapterDesingPattern\obj\Debug\AdapterDesingPattern.csproj.CoreCompileInputs.cache
+C:\Users\Ankabeta\source\repos\AdapterDesingPattern\AdapterDesingPattern\bin\Debug\AdapterDesingPattern.exe.config
+C:\Users\Ankabeta\source\repos\AdapterDesingPattern\AdapterDesingPattern\bin\Debug\AdapterDesingPattern.exe
+C:\Users\Ankabeta\source\repos\AdapterDesingPattern\AdapterDesingPattern\bin\Debug\AdapterDesingPattern.pdb
+C:\Users\Ankabeta\source\repos\AdapterDesingPattern\AdapterDesingPattern\obj\Debug\AdapterDesingPattern.exe
+C:\Users\Ankabeta\source\repos\AdapterDesingPattern\AdapterDesingPattern\obj\Debug\AdapterDesingPattern.pdb

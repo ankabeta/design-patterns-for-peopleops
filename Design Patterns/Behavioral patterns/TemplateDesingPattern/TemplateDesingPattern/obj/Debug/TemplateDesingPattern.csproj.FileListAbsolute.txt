@@ -1,0 +1,6 @@
+C:\Users\KUTLUHAN KEMAL\source\repos\TemplateDesingPattern\TemplateDesingPattern\bin\Debug\TemplateDesingPattern.exe.config
+C:\Users\KUTLUHAN KEMAL\source\repos\TemplateDesingPattern\TemplateDesingPattern\bin\Debug\TemplateDesingPattern.exe
+C:\Users\KUTLUHAN KEMAL\source\repos\TemplateDesingPattern\TemplateDesingPattern\bin\Debug\TemplateDesingPattern.pdb
+C:\Users\KUTLUHAN KEMAL\source\repos\TemplateDesingPattern\TemplateDesingPattern\obj\Debug\TemplateDesingPattern.csproj.CoreCompileInputs.cache
+C:\Users\KUTLUHAN KEMAL\source\repos\TemplateDesingPattern\TemplateDesingPattern\obj\Debug\TemplateDesingPattern.exe
+C:\Users\KUTLUHAN KEMAL\source\repos\TemplateDesingPattern\TemplateDesingPattern\obj\Debug\TemplateDesingPattern.pdb

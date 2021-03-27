@@ -1,0 +1,7 @@
+C:\Users\KUTLUHAN KEMAL\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\bin\Debug\AbstractFactoryDesingPattern.exe.config
+C:\Users\KUTLUHAN KEMAL\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\bin\Debug\AbstractFactoryDesingPattern.exe
+C:\Users\KUTLUHAN KEMAL\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\bin\Debug\AbstractFactoryDesingPattern.pdb
+C:\Users\KUTLUHAN KEMAL\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\obj\Debug\AbstractFactoryDesingPattern.csprojAssemblyReference.cache
+C:\Users\KUTLUHAN KEMAL\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\obj\Debug\AbstractFactoryDesingPattern.csproj.CoreCompileInputs.cache
+C:\Users\KUTLUHAN KEMAL\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\obj\Debug\AbstractFactoryDesingPattern.exe
+C:\Users\KUTLUHAN KEMAL\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\obj\Debug\AbstractFactoryDesingPattern.pdb

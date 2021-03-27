@@ -1,0 +1,15 @@
+C:\Users\Ankabeta\source\repos\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\netcoreapp3.1\SingletonDesignPattern.exe
+C:\Users\Ankabeta\source\repos\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\netcoreapp3.1\SingletonDesignPattern.deps.json
+C:\Users\Ankabeta\source\repos\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\netcoreapp3.1\SingletonDesignPattern.runtimeconfig.json
+C:\Users\Ankabeta\source\repos\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\netcoreapp3.1\SingletonDesignPattern.runtimeconfig.dev.json
+C:\Users\Ankabeta\source\repos\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\netcoreapp3.1\SingletonDesignPattern.dll
+C:\Users\Ankabeta\source\repos\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\netcoreapp3.1\SingletonDesignPattern.pdb
+C:\Users\Ankabeta\source\repos\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Users\Ankabeta\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\netcoreapp3.1\SingletonDesignPattern.csprojAssemblyReference.cache
+C:\Users\Ankabeta\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\netcoreapp3.1\SingletonDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Ankabeta\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\netcoreapp3.1\SingletonDesignPattern.AssemblyInfo.cs
+C:\Users\Ankabeta\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\netcoreapp3.1\SingletonDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Ankabeta\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\netcoreapp3.1\SingletonDesignPattern.csproj.CopyComplete
+C:\Users\Ankabeta\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\netcoreapp3.1\SingletonDesignPattern.dll
+C:\Users\Ankabeta\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\netcoreapp3.1\SingletonDesignPattern.pdb
+C:\Users\Ankabeta\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\netcoreapp3.1\SingletonDesignPattern.genruntimeconfig.cache

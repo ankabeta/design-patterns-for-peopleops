@@ -1,0 +1,6 @@
+C:\Users\Ankabeta\source\repos\FacadeDesingPattern\FacadeDesingPattern\bin\Debug\FacadeDesingPattern.exe.config
+C:\Users\Ankabeta\source\repos\FacadeDesingPattern\FacadeDesingPattern\bin\Debug\FacadeDesingPattern.exe
+C:\Users\Ankabeta\source\repos\FacadeDesingPattern\FacadeDesingPattern\bin\Debug\FacadeDesingPattern.pdb
+C:\Users\Ankabeta\source\repos\FacadeDesingPattern\FacadeDesingPattern\obj\Debug\FacadeDesingPattern.csproj.CoreCompileInputs.cache
+C:\Users\Ankabeta\source\repos\FacadeDesingPattern\FacadeDesingPattern\obj\Debug\FacadeDesingPattern.exe
+C:\Users\Ankabeta\source\repos\FacadeDesingPattern\FacadeDesingPattern\obj\Debug\FacadeDesingPattern.pdb

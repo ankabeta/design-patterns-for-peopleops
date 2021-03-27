@@ -1,0 +1,7 @@
+C:\Users\Ankabeta\source\repos\MementoDesingPattern\MementoDesingPattern\bin\Debug\MementoDesingPattern.exe.config
+C:\Users\Ankabeta\source\repos\MementoDesingPattern\MementoDesingPattern\bin\Debug\MementoDesingPattern.exe
+C:\Users\Ankabeta\source\repos\MementoDesingPattern\MementoDesingPattern\bin\Debug\MementoDesingPattern.pdb
+C:\Users\Ankabeta\source\repos\MementoDesingPattern\MementoDesingPattern\obj\Debug\MementoDesingPattern.csprojAssemblyReference.cache
+C:\Users\Ankabeta\source\repos\MementoDesingPattern\MementoDesingPattern\obj\Debug\MementoDesingPattern.csproj.CoreCompileInputs.cache
+C:\Users\Ankabeta\source\repos\MementoDesingPattern\MementoDesingPattern\obj\Debug\MementoDesingPattern.exe
+C:\Users\Ankabeta\source\repos\MementoDesingPattern\MementoDesingPattern\obj\Debug\MementoDesingPattern.pdb

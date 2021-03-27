@@ -1,0 +1,7 @@
+C:\Users\Ankabeta\source\repos\StateDesingPattern\StateDesingPattern\bin\Debug\StateDesingPattern.exe.config
+C:\Users\Ankabeta\source\repos\StateDesingPattern\StateDesingPattern\bin\Debug\StateDesingPattern.exe
+C:\Users\Ankabeta\source\repos\StateDesingPattern\StateDesingPattern\bin\Debug\StateDesingPattern.pdb
+C:\Users\Ankabeta\source\repos\StateDesingPattern\StateDesingPattern\obj\Debug\StateDesingPattern.csprojAssemblyReference.cache
+C:\Users\Ankabeta\source\repos\StateDesingPattern\StateDesingPattern\obj\Debug\StateDesingPattern.csproj.CoreCompileInputs.cache
+C:\Users\Ankabeta\source\repos\StateDesingPattern\StateDesingPattern\obj\Debug\StateDesingPattern.exe
+C:\Users\Ankabeta\source\repos\StateDesingPattern\StateDesingPattern\obj\Debug\StateDesingPattern.pdb

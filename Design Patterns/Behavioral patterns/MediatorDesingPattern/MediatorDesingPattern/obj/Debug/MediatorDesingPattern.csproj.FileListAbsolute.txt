@@ -1,0 +1,7 @@
+C:\Users\KUTLUHAN KEMAL\source\repos\MediatorDesingPattern\MediatorDesingPattern\obj\Debug\MediatorDesingPattern.csprojAssemblyReference.cache
+C:\Users\KUTLUHAN KEMAL\source\repos\MediatorDesingPattern\MediatorDesingPattern\obj\Debug\MediatorDesingPattern.csproj.CoreCompileInputs.cache
+C:\Users\KUTLUHAN KEMAL\source\repos\MediatorDesingPattern\MediatorDesingPattern\bin\Debug\MediatorDesingPattern.exe.config
+C:\Users\KUTLUHAN KEMAL\source\repos\MediatorDesingPattern\MediatorDesingPattern\bin\Debug\MediatorDesingPattern.exe
+C:\Users\KUTLUHAN KEMAL\source\repos\MediatorDesingPattern\MediatorDesingPattern\bin\Debug\MediatorDesingPattern.pdb
+C:\Users\KUTLUHAN KEMAL\source\repos\MediatorDesingPattern\MediatorDesingPattern\obj\Debug\MediatorDesingPattern.exe
+C:\Users\KUTLUHAN KEMAL\source\repos\MediatorDesingPattern\MediatorDesingPattern\obj\Debug\MediatorDesingPattern.pdb

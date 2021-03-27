@@ -1,0 +1,14 @@
+C:\Users\Ankabeta\source\repos\BuilderDesingPattern\BuilderDesingPattern\obj\Debug\BuilderDesingPattern.csprojAssemblyReference.cache
+C:\Users\Ankabeta\source\repos\BuilderDesingPattern\BuilderDesingPattern\obj\Debug\BuilderDesingPattern.csproj.CoreCompileInputs.cache
+C:\Users\Ankabeta\source\repos\BuilderDesingPattern\BuilderDesingPattern\bin\Debug\BuilderDesingPattern.exe.config
+C:\Users\Ankabeta\source\repos\BuilderDesingPattern\BuilderDesingPattern\bin\Debug\BuilderDesingPattern.exe
+C:\Users\Ankabeta\source\repos\BuilderDesingPattern\BuilderDesingPattern\bin\Debug\BuilderDesingPattern.pdb
+C:\Users\Ankabeta\source\repos\BuilderDesingPattern\BuilderDesingPattern\obj\Debug\BuilderDesingPattern.exe
+C:\Users\Ankabeta\source\repos\BuilderDesingPattern\BuilderDesingPattern\obj\Debug\BuilderDesingPattern.pdb
+E:\kky\The Catalog of Design Patterns\Creational patterns\BuilderDesingPattern\BuilderDesingPattern\bin\Debug\BuilderDesingPattern.exe.config
+E:\kky\The Catalog of Design Patterns\Creational patterns\BuilderDesingPattern\BuilderDesingPattern\bin\Debug\BuilderDesingPattern.exe
+E:\kky\The Catalog of Design Patterns\Creational patterns\BuilderDesingPattern\BuilderDesingPattern\bin\Debug\BuilderDesingPattern.pdb
+E:\kky\The Catalog of Design Patterns\Creational patterns\BuilderDesingPattern\BuilderDesingPattern\obj\Debug\BuilderDesingPattern.csprojAssemblyReference.cache
+E:\kky\The Catalog of Design Patterns\Creational patterns\BuilderDesingPattern\BuilderDesingPattern\obj\Debug\BuilderDesingPattern.csproj.CoreCompileInputs.cache
+E:\kky\The Catalog of Design Patterns\Creational patterns\BuilderDesingPattern\BuilderDesingPattern\obj\Debug\BuilderDesingPattern.exe
+E:\kky\The Catalog of Design Patterns\Creational patterns\BuilderDesingPattern\BuilderDesingPattern\obj\Debug\BuilderDesingPattern.pdb
