@@ -1,25 +1,28 @@
 # design-patterns-for-peopleops
 # The Catalog of Design Patterns
 # Desing Patterns
-  As human beings, we have encountered many problems throughout our life and we have produced solutions for them ourselves. Sometimes these solutions start to sound so familiar to our previous solutions that it starts to repeat itself. After a while, we learn from our past mistakes and we know what needs to be done to avoid the same problem in the next step.
-This is also the case in the development of the software industry. Although we software developers are actually developing different projects, we look for solutions to similar problems and encounter similar problems. We all produce solutions to these problems in our own way. So what if we put these solutions together and give them a name? Here Design Patterns offer a solution to this.
+  İnsanoğlu olarak yaşam boyunca birçok problemlerle karşılaşmış ve bunlara kendimizce çözümler üretmişizdir. Bazen bu çözümler önceki çözümlerimize o kadar tanıdık gelmeye başlar ki, bu durum artık kendini tekrar etmeye başlar. Belli süre sonra artık geçmiş hatalarımızdan dersler alırız ve bir sonraki adımda aynı problemle karşılaşmamak için yapılması gerekeni biliriz.
+Yazılım sektörünün gelişiminde de bu durum söz konusu. Biz yazılımcılar aslında farklı projeler geliştiriyor olsak da benzer problemlere çözüm ararız, benzer sorunlarla karşılaşırız. Bu sorunlara da hepimiz kendimizce çözümler üretiriz. Peki bu çözümleri bir araya getirsek ve bunlara bir isim versek? İşte Design Patterns(Tasarım Kalıpları) buna çözüm sunuyor.
+
+![etiket](https://github.com/ankabeta/design-patterns-for-peopleops/blob/main/Images/1_1.png)
  
-Design patterns are structures that enable us to do Code Optimization in the best way, based on similar problems that we often encounter in a software project. Of course, these structures have been found by people who have faced similar problems before, who thought about how to find the most optimized solution at the end of long efforts and investigations, and they are all very good in terms of usability and applicability. In fact, it is not enough to say good, it has seriously facilitated the lives of us computer engineers and all those working in the field of software.<br/>
+Design patternler, bir yazılım projesinden sıklıkla karşılaştığımız benzer sorunlar üzerinden yola çıkarak Code Optimization'ı en iyi şekilde yapabilmemizi sağlayan yapılardır. Elbette ki bu yapılar bizden önce benzer problemlerle daha önce karşılaşmış olan, uzun uğraşlar ve incelemeler sonunda en optimize şekilde nasıl bir çözüm getirebiliriz düşüncesinde olan kişiler tarafında bulunmuştur ve hepsi de kullanılabilirlik, uygulanabilirlik açısından oldukça iyidirler. Aslında iyi demek yetmez biz bilgisayar mühendislerinin ve diğer bütün yazılım alanında çalışan herkesin hayatını ciddi bir biçimde kolaylaştırmıştır.<br/>
 <br/>
-• How can we design good software **effectively?**<br/>
-• How can we transfer **our past experiences to our future projects?**<br/>
-• How can we get good features such as **flexibility** and **efficiency** during the design of the software?<br/>
+• İyi bir yazılımı etkili bir şekilde nasıl tasarlayabiliriz?<br/>
+• Geçmiş tecrübelerimizi, gelecek projelerimize nasıl aktarabiliriz?<br/>
+• Yazılımın tasarımı esnasında, esneklik ve verimlilik gibi iyi özelliklere nasıl sahip olabiliriz?<br/>
 
-The questions have led us to find and use desing patterns.
+Soruları bizleri desing patternleri bulmaya ve kullanmaya götürmüştür.
 
-Design patterns are not an algorithm or code. It is also not specific to a particular language, it is language independent. Usually, we show the relationships between objects with UML diagrams, so a common communication language is created between software developers. You can easily apply a certain design to a project that you write in the language you want. Of course, it is useful to clear a misunderstanding here. In almost all Turkish sources, they limited their design patterns to OOP (Object Oriented Programming). However, Design Patterns are independent of language and programming paradigms. In other words, solutions can be produced for a different paradigm. Since OOP is the most common and used paradigm in projects today, when it comes to design patterns, OOP solutions come to mind directly.
+Tasarım kalıpları bir algoritma ya da kod değildir. Ayrıca belli dile özgü değildir, dilden bağımsızdır. Genellikle nesneler arası ilişkileri UML diyagramları ile gösteririz, bu sayede yazılımcılar arasında ortak bir iletişim dili oluşmuş olur. Belli bir tasarımı istediğiniz dille yazdığınız bir projeye kolaylıkla uygulayabilirsiniz. Tabi burada bir yanlış anlaşılmayı gidermekte fayda var. Neredeyse tüm Türkçe kaynaklarda tasarım kalıplarını OOP(Nesne Tabanlı Programlama) ile sınırlandırmışlar. Ancak Tasarım Kalıpları, dilden ve programlama paradigmalarından bağımsızdır. Yani farklı bir paradigma için de çözümler üretilebilir. Günümüzde en yaygın ve projelerde en çok kullanılan paradigma OOP olduğu için tasarım kalıpları diyince direk OOP çözümleri akla gelmekte.
 
-## Types of Design Patterns
-Software design patterns are generally examined under 3 main headings. These are:
+## Tasarım Kalıpları Çeşitleri
+Yazılım tasarım kalıpları genel olarak 3 ana başlıkta incelenir. Bunlar şunlardır:
  
+![etiket](https://github.com/ankabeta/design-patterns-for-peopleops/blob/main/Images/1_2.png)
 
 ### 1.	**Creational design patterns**
-Offers suggestions on how to create objects. <br/>
+Nesnelerin nasıl yaratılacağı hakkında öneriler sunar. <br/>
 
   •	Abstract Factory  <br/>
   •	Builder <br/>
@@ -29,7 +32,7 @@ Offers suggestions on how to create objects. <br/>
 
 
 ### 2.	**Structural design patterns**
-It offers suggestions for determining the relationships between classes, answers questions such as how to derive, what objects should they contain, how classes should be interconnected.<br/>
+Sınıflar arasındaki ilişkileri belirleme önerileri sunar, Nasıl türetilmeli, hangi nesneleri içermeli, sınıflar birbirlerini nasıl bağlı olmalı gibi soruların cevaplarını yanıtlar.<br/>
 
 •	Adapter <br/>
 •	Bridge <br/>
@@ -41,7 +44,7 @@ It offers suggestions for determining the relationships between classes, answers
 
 
 ### 3.	**Behavioral design patterns**
-According to the problem, it offers suggestions for us to establish common communication between objects in the best way.<br/>
+Soruna göre nesneler arası ortak haberleşmeyi en iyi şekilde kurmamıza öneriler sunar.<br/>
 
 •	Chain of Responsibility <br/>
 •	Command <br/>
@@ -54,28 +57,27 @@ According to the problem, it offers suggestions for us to establish common commu
 •	Template Method <br/>
 •	Visitor <br/>
 
-
- 
-
-
+![etiket](https://github.com/ankabeta/design-patterns-for-peopleops/blob/main/Images/1_3.png)
 
 # Refactoring 
-After the written codes have passed over time (even 6-7 months is enough), it may be forgotten which script refers to what. Therefore, it is necessary to read the code to understand. The more complex the code, the harder it is to understand the work done. So it takes that much time. Moreover, if we work in a company, we will have to read someone else's codes, and if the codes are mixed, it will be very difficult to get out of this situation.
-Refactoring is the changes made to the internal structure of the software in order to make it simpler, more understandable and easier to change and do not affect the external behavior of the software. Yes refactoring is a process. Although the purpose / intention is always to write clean code from the very beginning (although it is written in the cleanest way while writing), the changing and developing codes will need to be continuously optimized over time.
-The goal is to **write clean code.** Programming is telling the computer what to do. Over time, you become a better developer, and what you tell the computer gets closer and closer to what you really want. That's why you write cleaner code every day. The concept of refactoring allows us to make the code we wrote months ago to be easy to read and to make changes to the code without difficulty. Of course, these changes can be made by others, not us.
-Of course, there are other benefits as well. Thanks to refactoring, it becomes easier to make a good **software design.** It allows you to easily use design patterns that almost all of us know by heart but are very difficult to use in practice. Because the code is clean and organized, and you can easily see the subtleties you find difficult to see anymore.
+Yazılan kodların üzerinden zaman geçtikten sonra (6–7 ay bile yeterlidir), hangi scriptin ne ifade ettiği unutulabilir. Dolayısıyla anlamak için kodu okumak gerekir. Kod ne kadar karışıksa, yapılan işi anlamak da o kadar zorlaşır. Dolayısıyla o kadar zaman alır. Dahası bir şirkette çalışıyorsak, başkasının kodlarını okumamız da gerekecektir ve kodlar karışıksa bu durumun içinden çıkmak iyice zorlaşacaktır.
+Refactoring, yazılımı daha basit, daha anlaşılır, değiştirmesi daha kolay bir hale getirmek amacıyla iç yapısında yapılan ve yazılımın dış davranışını etkilemeyen değişikliklerdir. Evet refactoring bir süreçtir. Her ne kadar amaç/niyet her zaman en baştan temiz kod yazmak olsa da (her ne kadar yazarken en temiz şekilde yazılsa da) değişen ve gelişen kodların zaman içerisinde sürekli optimize edilmesi gerekecektir.
+Amaç **temiz kod** yazmak. Programlama bilgisayara ne yapması gerektiğini söylemektir. Zamanla daha iyi bir yazılımcı olursunuz ve bilgisayara anlattığınız şey ile gerçekten istediğiniz şey gittikçe birbirine daha çok yaklaşır. Bu yüzden her geçen gün daha temiz kod yazarsınız. Refactoring kavramı bize aylar önce yazdığımız kodun kolay okunabilir olmasını ve zorlanmadan kod üzerinde değişiklikler yapmamızı sağlar. Elbette bu değişiklikleri biz değil başkaları da yapabilir.
+Tabiki bunun dışında da faydaları var. Refactoring sayesinde iyi bir **yazılım tasarımı** (software design) yapmanız kolaylaşır. Neredeyse hepimizin ezbere bildiği ama pratikte kullanmakta çok zorlandığı **tasarım desenlerini** (design patterns) kolaylıkla kullanabilmenizi sağlar. Çünkü kod temiz ve düzenlidir ve artık görmekte zorlandığınız incelikleri kolaylıkla görmeye başlarsınız.
 
-**So when can it be used?**
+**Peki ne zaman kullanılabilir?**
 
-In fact, although the concept of refactoring seems to be used constantly, there are certain rules for using refactoring. We can basically collect them under 3 headings.
-1.	**When you add a new functionality to the software:** When you add a new feature, you write a lot of code and this code needs to be refactored. If we look at Kent Beck's hat theory. He says you have 2 hats, one a coder hat, the other a refactorer hat. When adding a new feature, put on the coder hat and just focus on adding that feature, just write code. Don't think about refactoring. As soon as you believe the feature has been added and works, remove the coder hat, put on the refactorer hat and start designing the code you wrote. Trying to reach the perfect design is a bad thing, and it's generally evil delusion, "good" is enough for us. Test that the behavior does not change when you think it is good.
+Aslında refactoring kavramı sürekli kullanılması gerekiyor gibi görünse de refactoring’i kullanmak için belli başlı kurallar vardır. Bunları temel olarak 3 başlıkta toplayabiliriz
+1.	**Yazılıma yeni bir fonksiyonalite eklediğinde:** Yeni bir özellik eklediğinizde epey kod yazarsınız ve bu kodun refactor edilmesi gerekir. Kent Beck’in şapka teorisine bakarsak. Kendisi 2 şapkanız olsun der, biri koder şapkası, diğer refactorer şapkası. Yeni bir özellik eklerken koder şapkasını takın ve sadece o özelliği eklemeye odaklanın, sadece kod yazın. Refactor yapmayı düşünmeyin. Özelliğin eklendiğine ve çalıştığına inandığınız anda koder şapkasını çıkarıp refactorer şapkasını takın ve yazdığınız kodu design etmeye başlayın. Mükemmel design’a ulaşmaya çalışmak kötü bir şeydir ve genelde şeytan vesvesesidir, “iyi” bizim için yeterli. İyi olduğunu düşündüğünüzde davranışın değişmediğini test edin.
  
-2.	**When a bug in the software has been fixed:** You must also read the code while trying to solve a bug. If you can't read it, feel free to make it readable.
+2.	**Yazılımdaki bir hata giderildiğinde:** Bir hatayı çözmeye çalışırken de kodu okumanız gerekir. Eğer okuyamıyorsanız okunabilir hale getirmekten çekinmeyin.
  
-3.	**When reviewing the software:** Although many companies do not do this, there is an event called a “code review” in large and corporate companies. We also do it frequently in the institution, and during the code review, I can see that my friend did not understand something that seems very readable and understandable to me. Because understandability is a subjective concept and refactoring during a code review done by multiple software developers makes this subjective concept as objective as possible.
+3.	**Yazılımı gözden geçirirken:** Birçok şirket bunu yapmasada, büyük ve kurumsal şirketlerde “code review” denen bir olay vardır. Biz de kurumda sık sık yapıyoruz ve code review sırasında aslında bana göre gayet okunabilir ve anlaşılır duran birşeyi arkadaşımın anlamadığını görebiliyorum. Çünkü anlaşılabilirlik subjektif bir kavram ve birden çok yazılımcının birlikte yaptığı bir code review sırasında refactor yapmak, bu subjektif kavramı mümkün olduğunca objektif hale getirir.
 
 ## Creational Patterns
 **Singleton Pattern:** Singleton(tek nesne) tasarım kalıbı, bir sınıfın tek bir örneğini almak için kullanılır. Amaç oluşturulan nesneye global erişim noktası sağlamaktır. Böylece nesne dilendiği zaman dilenilen yerden erişilebilecektir. Sistem çalıştığı sürece ikinci bir örnek oluşturulmaz, böylelikle istenen nesnenin tek bir defa oluşturulması garanti altına alınacaktır. Tek bir defa oluşturulan nesne bellekte fazladan yer kaplanmamasını sağlar. Bu durumda daha optimize bir bellek yapısı elde ederiz. Singleton nesneler ilk çağırıldıklarında bir kere oluşturulurlar ve sonraki istekler bu nesne üzerinden karşılanır. 
+
+ ![etiket](https://github.com/ankabeta/design-patterns-for-peopleops/blob/main/Images/1.png)
 
 Singleton Pattern ‘le alakalı bir önemli husus ise Thread Safe yöntemidir. Örneğin yapılan örnekte eğer nesne eğer boş ise yeniden oluşturup gönderilir. Bu yöntem bir soruna sebep olabilir; eğer bu nesneye birden fazla istek gelirse nesne sürekli oluşturulmaya çalışılacaktır böyle bir olayda sistem kilitlenebilir. Bunu engellemek için Thread Safe yöntemini kullanmalıyız. Bu yöntemle birden fazla aynı anda aynı Thread’e gelen istekleri sıraya alarak kontrollü bir yapı sağlamaktayız. Sayfamıza birden fazla gelen istekleri kontrol etmemize olanak sağlamaktadır.
 Burada Lock parametresini kullanarak nesne daha önceden oluşturulmuş ise oluşturulan nesneyi geri göndererek işlem sağlıyoruz. Böylece nesne tekrardan oluşturulmaya çalışılmıyor. Eğer kilitleme yapılmazsa iki farklı thread’in ard arda yapacağı istek sonucu, birinin sonucuna ulaşamadan yeni bir örneklendirme yapar.
@@ -148,6 +150,8 @@ namespace Singleton
  
 
 **Builder Pattern:** Creational Design Pattern’lerden birisi olan Builder pattern, haliyle diğer Creational Desing pattern’ler gibi bir nesne yaratma problemini çözmek üzere karşımıza çıkıyor. Builder Pattern güncük hayatta inşaat kavramıyla çok benzeştiriliyor. Nasıl ki biz bir bina yaparken bazı nesnelerin üretimleri ya da değiştirilmek istenirken oldukça maliyetli olabiliyorken aynı durum Builder D.P.’de de geçerlidir. İşte bu tarz inşa durumlarında Builder D.P. ile ilgili nesneler genişletilebilir bir hale getirilmekte ve en önemlisi kod karmaşıklığı minimize edilmektedir. Özetle üretim karmaşıklığına çözüm oluyor.
+
+ ![etiket](https://github.com/ankabeta/design-patterns-for-peopleops/blob/main/Images/2.png)
  
 “Builder”, “ConcreteBuilder”, “Product” ve “Director” isminde dört adet terimimiz mevcuttur. 
 
@@ -328,6 +332,8 @@ namespace BuilderDesingPattern
 
 **Factory Pattern:** Factory desing pattern, creactional tasarım modlarından biridir. Bu tasarım deseni, nesneler oluşturmak için bir arayüz sağlar ve alt sınıfların hangi sınıftan bir nesne oluşturacağını belirlemesine olanak tanır. Temel amaç, oluşturmak istediğimiz sınıfın oluşturulma sürecini tek bir örnek oluşturmak yerine tek bir sınıf üzerinden yönetmektir. Örneğin kodumuzdaki yöntemlerde bazı durumlarda farklı tipte nesnelere ihtiyaç duyabiliriz. Elbette, bu nesneleri oluşturmak için if-else veya switch-case inşasını kullanabiliriz, ancak nesneler arttıkça, onları if-else veya switch-case bloğuna eklemek zaman, bakım ve kod açısından aynı değildir. Hoş bir durum. Ölçeklenebilirlik ve modülerlik. Bu durumda, Fabrika Yöntemi modelini kullanabiliriz.
  
+ ![etiket](https://github.com/ankabeta/design-patterns-for-peopleops/blob/main/Images/3.png)
+ ![etiket](https://github.com/ankabeta/design-patterns-for-peopleops/blob/main/Images/4.png)
  
 Yukarıdaki şablonları inceleyerek bir senaryo çizelim. Aşağıda benzer nitelikte farklı bir senaryo üzerinden Factory Method paternini uygulayacağız.
 
@@ -446,6 +452,8 @@ Yukarıdaki şablona göre elimizdeki birden fazla ürün interface tarafından 
 •	Client sınıfına, bir abstract arayüz kullanmasını sağlayarak, gerçekte üretilecek ilişkili Product sınıflarını bilmeden veya önemsemeden oluşturulmasına olanak tanır.
 
 •	if-else yapısından kurtararak daha anlaşılır kod yazmayı sağlar.
+ 
+ ![etiket](https://github.com/ankabeta/design-patterns-for-peopleops/blob/main/Images/5.png)
  
 Yukarıdaki bilgiler ışığında bir örnek yapalım. Örneğimizde ülkeyi seçtiğimiz taktirde bize o ülkenin en favori takımların birisinin renklerini ve ligin en skorer oyuncusunu veren bir uygulama yapalım. Bunun için class olarak ülke, takım ve futbolculara ihtiyacımız olacaktır. 
  
@@ -674,6 +682,7 @@ Prototype tasarım deseninde 3 temel yapı vardır. Bunlar:
 
 **Client Uygulama:** Somut prototip nesnelerinden birer eleman elde edecek olan sınıf, metot veya bir elemandır.
  
+ ![etiket](https://github.com/ankabeta/design-patterns-for-peopleops/blob/main/Images/6.png)
 
  ```
  namespace PrototypeDesingPattern
@@ -771,6 +780,8 @@ Prototype tasarım deseninde 3 temel yapı vardır. Bunlar:
 **Composite:** Structural Patterns gurubunda yer alan Composite Design Pattern, Bir yapıyı oluşturan nesneler topluluğunda yapıyı oluşturan parçaları ağaç (tree) hiyeraşik yapısına göre oluşturan ve aralarındaki ilişkiler için düzen sağlayan bir tasarım desenidir. 
 
 Composite tasarım kalıbı tekil component ve birbirinden farklı componentler grubunun hiyerarşik bir yapıda benzer şekilde hareket etmesini yani kendi içlerinde birbirlerinden farklı olan bir grup nesnenin sanki tek bir bütün nesneymiş gibi kullanılmasını bileşik kalıp sağlar.
+ 
+ ![etiket](https://github.com/ankabeta/design-patterns-for-peopleops/blob/main/Images/7.png)
  
 -	**Client:** İstemci uygulama
 -	**Component:** Composite ve Leaf için tanımlanacak ortak şablon abstract class ya da interface olacak.
@@ -941,6 +952,8 @@ Kullanım amacı;
 -	Daha önce yazılmış olan kodları düzenlemek zorunda kalmayız. Sonuçta ilgili kodun daha önce çalıştığını kabul ediyoruz.
 -	Adapte edeceğimiz class üzerinde değişiklik yapmadığımız için uygulama içerisinde kullanılmış olduğu herhangi bir yerde değişiklik yapmamız gerekmez.
 
+![etiket](https://github.com/ankabeta/design-patterns-for-peopleops/blob/main/Images/8.png)
+
    ```
    namespace AdapterDesingPattern
 {
@@ -1007,6 +1020,8 @@ Kullanım amacı;
 ```
 
 **Decorator:** Decorator tasarım deseni; structural grubuna ait bir desendir. Decorator tasarım deseni bir nesneye dinamik olarak yeni sorumlulukların eklenmesi ve hatta var olanların çıkartılması amacıyla kullanılır. Bir açıdan bakıldığında nesneyi kendisinden türeyen alt sınıflar ile genişletmek yerine kullanılabilen alternatif bir yaklaşım olarak düşünülebilir.
+ 
+ ![etiket](https://github.com/ankabeta/design-patterns-for-peopleops/blob/main/Images/9.png)
  
 ```
  namespace DecoratorDesingPattern
@@ -1149,6 +1164,8 @@ Kullanım amacı;
  
 **Facade:** Facade deseni structural grubuna ait bir desendir. Temel anlamda class kullanımını seviyelendiren bir tasarım desenidir. Basitçe herhangi bir class/fonksiyon içinden diğer class/fonksiyon'ları çağırmaya yarayan desendir. Facade deseni sistem karmaşıklığını gizler ve client(istemci)'nin sisteme erişmesini sağlayan bir arabirim görevi üstlenir. Bu desen bir grup class'ı ve özelliklerini (fonksiyon/değişken vb.) içeren tek bir ana sınıf olarak görev yapar.
 
+![etiket](https://github.com/ankabeta/design-patterns-for-peopleops/blob/main/Images/10.png)
+
 ```
 namespace FacadeDesingPattern
 {
@@ -1252,6 +1269,7 @@ namespace FacadeDesingPattern
 
 Tek bir implementasyonun farklı nesneler tarafından da kullanılmasına olanak sağlar.
 
+![etiket](https://github.com/ankabeta/design-patterns-for-peopleops/blob/main/Images/11.png)
  
 Bir örnek üzerinden konuya devam edersek. Örneğin bir oyun aldınız ve oyunu açarken size video modlarını soruyor. OpenGL, Direct3D bu seçeneklerden birini seçtikten sonra oyun artık hep bu seçimle bağlantılı olarak çalışır. Bunu factory class ile de yapabilirdik fakat bridge ile yapmamız bize runtime'da değiştirebilmemizi sağlayacaktır. Video modunu oyunda istediğiniz anda değiştirebilirsiniz öyle düşünün.
 
@@ -1336,6 +1354,8 @@ Sonuç çıktısında görüleceği üzere Abstraction classına eklediğimiz Vi
 **Flyweight:** Yapısal(Structural) tasarım kalıplarından olan FlyWeight, bellek tüketimini optimize etmek amacıyla kullanılan bir desendir. Aslında detayına inildiğinde son derece zekice tasarlanmış ve pek çok noktada karşımıza çıkabilecek havuz mantığını içeren bir kalıp olduğu anlaşılabilir. Burada önemli olan nokta, bellek tüketiminin çok fazla sayıda nesnenin bir arada ele alınması sırasında ortaya çıkmasıdır. Buna göre söz konusu nesnelerin ortak olan, paylaşılabilen içerikleri ve bunların dışında kendilerine has durumları olduğu takdirde, nesne üretimlerini sürekli tekrar ettirmektense basit bir havuz içerisinden tedarik ettirmek, uygulamanın harcadığı bellek alanlarının optimize edilmesi için yeterli olacaktır. Bu açıdan bakıldığında desenin, paylaşımlı nesneleri efektif olarak kullanabilmek üzerine odaklandığını söyleyebiliriz.
 
 Her bir FlyWeight nesnesi temel olarak iki önemli veri kümesinden oluşur. Kaynaklarda çoğunlukla intrinsic olarak geçen durum-bağımsız(State-Independent) kısım parçalardan birisir. Bu kısımda, çalışma zamanındaki tüm FlyWeight nesneleri tarafından saklanan paylaşılmış alanlar yer almaktadır. Diğer parça ise durum-bağımlı(State-Dependent) olarak bilinen ve kaynaklarda çoğunlukla extrinsic olarak belirtilen kısımdır. Bu kümedeki veriler ise istemci tarafından saklanır, hesap edilir ve FlyWeight nesne örneğine, yine FlyWeight' in bir operasyonu yardımıyla aktarılırlar.
+
+![etiket](https://github.com/ankabeta/design-patterns-for-peopleops/blob/main/Images/12.png)
  
 UML şemamızda gördüğümüz üzere FlyWeightFactory nesnesi ile FlyWeight nesnesi arasında bir Aggregation söz konusudur. Bu son derece doğaldır nitekim fabrikamız, kendi içerisinde yer alan bir depolama alanı ile FlyWeight nesne örneklerini havuzlamakta ve istemcinin ihtiyacı olan FlyWeight nesne örneklerini bu havuzdan tedarik etmektedir. Bu noktada istemci (Client) ile, FlyWeight Factory ve Concrete FlyWeight nesneleri arasında tek yönlü bir Association söz konusudur. Yani, Client diğerlerinin nesne örnekleri ve içeriklerini kullanmaktadır. Concrete FlyWeight tipi, türeyenler için Intrinsic state verileri ile Extrinsic state verilerinin ele alındığı ortak operasyonu tanımlamaktadır. Interface veya abstract sınıf tipinden tasarlanabilir.
  
@@ -1486,6 +1506,7 @@ Remote(uzak) bir nesne kullanılacağı durumlarda kullanılabilir. Uzaktaki nes
 **Protection Proxy**
 Yetkilendirme yahut login durumlarında kullanılabilir.
 
+![etiket](https://github.com/ankabeta/design-patterns-for-peopleops/blob/main/Images/13.png)
  
 UML şemamıza baktığımızda Subject, Real Subject birde Proxy sınıflarımızın olduğunu göreceksiniz. Client burda DO metodunun yaptığı işi istemektedir. Fakat bu metod uzun süren bir iş olabilir. Örneğin bir web sayfası ve bu metod büyük boyutlu bir resmi sayfaya yüklüyor. Proxy kullanılmaz ise bu metod çalıştırıldığında bu resim yüklenene kadar sayfanın geri kalan metodları çalışmaz ve sayfamız yavaş çalışır yüklenme süresi artar. Bu nedenle proxy pattern'i kullanarak bu yükleme esnasında sayfayı durdurmak yerine bir önizleme resmini ekrana yazdırabiliriz. Yükleme tamamlandığında ise yüklenen resim bu önizlemenin yerine geçer.
 
@@ -1607,7 +1628,10 @@ namespace ProxyDesingPattern
 ## Behavioral patterns
 **Chain of Responsibility:** Chain of Responsibility (Sorumluluk Zinciri) tasarım deseni behavior grubununa ait, bir isteğin belli sınıflar içinde gezdirilerek ilgili sınıfın işlem yapmasını yöneten tasarım desenidir. Chain of Responsibility kod karmaşasını önlemek amacıyla oluşturulmuştur. Bir işlemi yapabilecek birden fazla sınıftan hangisinin yapacağına karar veren tasarım desenidir. Projelerimizde birden fazla koşullu metotlar yazmak istediğimizde her koşul için if else 
 blokları açılır ve ilgili metotlar çalıştırılmaktadır.
- 
+
+![etiket](https://github.com/ankabeta/design-patterns-for-peopleops/blob/main/Images/14.png)
+
+![etiket](https://github.com/ankabeta/design-patterns-for-peopleops/blob/main/Images/15.png)
  
 
 **Handler:** Kendisinden türeyecek ConcreteHandler’ ların, işleyebilmesi için gerekli olan arayüzdür. Abstract class ya da Interface şeklinde tanımlanabilir.
@@ -1708,6 +1732,7 @@ class Program
  
 **Command:** Davranışsal (Behavioral) tasarım kalıplarından biri olan komut tasarım kalıbı, nesneye dayalı programlama (Object Oriented Programing) çalışmalarında çoğu zaman farkında olmadan kullanılan bir yapıdır. Komut tasarım kalıbı, kullanıcı isteklerini gerçekleştiren kod yapısının sarmalanarak nesneler halinde saklanmasına dayanır. Öyle ki üzerinde çalışılacak nesnenin tanımının yapılamadığı durumlar olabilir. Bu şartlarda ne tür çözüm yolları ile nesneye müdahale edilmeye çalışılabileceği kestirilemez, ancak gerçekleştirilmek istenen işlemler bir nesne olarak sarmalanır. Nesne halinde tutulan bu sarmal kod yapısı, alıcı nesne için bir çözüm oluşturur. Çözümlerin nesneler halinde saklanmasının getirisi olarak da komut tasarım kalıbı aynı kod yapısının tekrar tekrar kullanılabilmesine olanak sağlar.
 
+![etiket](https://github.com/ankabeta/design-patterns-for-peopleops/blob/main/Images/16.png)
  
 -	**Komut (Command):** Gerçekleştirilecek işlem için bir ara yüz tanımlar.
 -	**Somut Komut (Concrete Command):** Alıcı ve gerçekleştirilecek işlemler arasında bir bağ kurar, alıcıda karşılık düşen işlemleri çağırarak çalıştırma eylemini gerçekleştirir.
@@ -1788,6 +1813,8 @@ Koleksiyonlar nesne tabanlı dillerde sıkça kullandığımız yapıların baş
 Aynı zamanda kendi itaratorlerimizi yazabiliriz bu kalıpla. Örneğin bir tarih aralığı verildi bize biz bu tarih aralığındaki çalışma günlerini bulucaz. Bunu mesela for veya foreach ile yapamayız ama iterator tasarım kalıbını kullanarak günler üzerinde gezebiliriz.
 
 **Aggregate** sınıfları koleksiyon barındıran ve bu koleksiyon ile iterator sınıfını oluşturan sınıflardı. **Iterator** sınıfları ise ileri geri gitme gibi işlemlerin yapıldığı sınıflardır.
+
+![etiket](https://github.com/ankabeta/design-patterns-for-peopleops/blob/main/Images/17.png)
  
 ```  
 namespace IleratorDesingPattern
@@ -1953,6 +1980,8 @@ Anlaşılması zor ve karmaşık yapılarda aracı nesne olarak kullanılır. Bi
 
 Kısaca mediator tasarım deseni birbirleri ile ilişkili olan bu nesneler arasındaki iletişimin ana bir nesne üzerinden (mediator) yapılmasını sağlar. Böylece nesneler arasındaki bağ zayıflatılır ve geliştirme aşamasında kod karmaşasını önler ve kodun yönetilmesini kolaylaştırır.
  
+ ![etiket](https://github.com/ankabeta/design-patterns-for-peopleops/blob/main/Images/18.png)
+ 
  ``` 
  namespace MediatorDesingPattern
 {
@@ -2079,7 +2108,7 @@ Kısaca mediator tasarım deseni birbirleri ile ilişkili olan bu nesneler aras�
 
 Aslında buna en güzel örnek geri ve ileri için kullandığımız; CTRL-Z ve CTRL-Y komutlarıdır. Bu örnektede olduğu gibi elimizdeki mevcut nesnenin herhangi bir T anındaki durumunu kayda alarak, sonradan oluşabilecek değişiklikler üzerine tekrardan o kaydı elde etmemizi sağlayan bir desendir.
 
-
+![etiket](https://github.com/ankabeta/design-patterns-for-peopleops/blob/main/Images/19.png)
 
 **Originator**
 Yaratıcı, mucit, üretken olarak ifade edebileceğimiz bu nesne kopyası saklanacak olan nesneyi ifade etmektedir. Bu nesne, kendi kopyasının oluşturulmasından sorumlu olduğu gibi geri yüklenmesinden de sorumludur.
@@ -2185,6 +2214,8 @@ namespace MementoDesingPattern
 **Observer:** Behavioral Patterns(Davranışsal Kalıplar) kategorisinde bulunan Observer Design Pattern Tasarlanmış olan sistem içerisinde, değişimini izlemek istediğimiz bir değer için kullanılır.
 
 Observer adı üzerinde gözlemci, izleyici, gözcü yahut gözetmen diye nitelendirilen, anlamı gibi işlev gören bir tasarım desenidir. Elimizdeki mevcut nesnenin durumunda herhangi bir değişiklik olduğunda, bu değişiklerden diğer nesneleri haberdar eden bir tasarımdan bahsediyoruz.
+
+![etiket](https://github.com/ankabeta/design-patterns-for-peopleops/blob/main/Images/20.png)
  
 **Subject:** Takip edilecek olan nesnemiz.
 
@@ -2299,7 +2330,7 @@ Elimizde bir Öğrenci nesnesi olsun. Bu Öğrenciyi takip eden; Anne, Baba ve �
  
 **State:** State design patterni, nesnenin iç durumundaki değişikliklere göre çalışma zamanında farklı davranışlar sergilemesini sağlayan tasarım kalıbıdır. Yani biraz daha açarsak nesne belli özelliklerindeki değişimlere göre farklı davranışlar, fonksiyonellikler sergilemesi gibi düşünebiliriz. Birçok örnek verebiliriz, atm’ye kartımızı taktığımızda başka kart almaması durumu, Televizyon kumandasından aynı tuşa basarak açıksa kapanması, kapalı ise açılması durumları vb.
 
-
+![etiket](https://github.com/ankabeta/design-patterns-for-peopleops/blob/main/Images/21.png)
 
  
 **Context:** Durumu izlenecek nesne.
@@ -2393,7 +2424,7 @@ Elimizde bir Öğrenci nesnesi olsun. Bu Öğrenciyi takip eden; Anne, Baba ve �
 
 **Strategy:** Behavioral Patterns(Davranışsal Kalıplar) kategorisine giren Strategy Design Pattern üzerinde detaylı irdeleme gerçekleştirelim. Bir işlem için birden fazla farklı yöntemlerin uygulanabileceği durumlar mevcuttur. İşte bu tarz durumlarda hangi yöntemin uygulanacağını, hangisinin devreye sokulacağını Strategy Design Pattern ile gerçekleştirebiliyoruz. Yapılması istenilen bir işimiz var ve bu işi birden farklı yollarla yapma ihtiyacımız var. Bu gibi durumlarda var olan işi ilgili sınıfı sürekli refactor ederek if-else blokları ile yapmak yerine, yeni bir sınıf daha ekleyerek istenilen durumda ilgili işi ilgili sınıfta yapmamıza olanak sağlar. Böylece var olan sınıfımız üzerinde değişiklik yapmadan sistemimizi geliştirmiş olacağız. Burada en önemli tasarım prensiplerinden birisini olan Open-Closed prensibi söz konusudur. 
 
- 
+ ![etiket](https://github.com/ankabeta/design-patterns-for-peopleops/blob/main/Images/22.png)
 
 **Strategy:** Bir arayüz(Interface) tasarlayarak ortak olan tüm algoritmalarımızı burada toplarız.
 
@@ -2468,6 +2499,7 @@ Elimizde bir Öğrenci nesnesi olsun. Bu Öğrenciyi takip eden; Anne, Baba ve �
  
 **Template Method:**  Template, kelime manasından da anlaşılacağı üzere şablon demektir. Haliyle yaptığımız faaliyetin inşasında belirli şablonsal algorimalar üzerinde çalışma gerçekleştirecek ve bu algoritmada değişkenlik gösteren noktalarda Template Method Design Pattern’i devreye sokacağız. Template Method tasarım kalıbı daha çok sıralı operasyonları içeren fonksiyonellikleri ilgilendirmektedir. Öyleki bu fonksiyonellikler içeisine dahil olan operasyonların bazıları, duruma göre farklı şekillerde uygulanmak istenebilir (Diğer fonksiyonlarda aslında standart olarak hep aynı işi yaparlar) Dolayısıyla fonksiyonelliğin sahiplendiği ve çalışma biçimleri değişkenlik gösterebilecek olan operasyonların kolayca genişletilebilmesi, sahip oldukları **kod parçalarının yeniden kullanılabilirliğinin arttırılması(Code Reusability)** noktasında bir çözüm gerekliliği ortaya çıkmaktadır. Template Method tasarım kalıbı burada çözüm olarak kullanılabilir.
  
+![etiket](https://github.com/ankabeta/design-patterns-for-peopleops/blob/main/Images/23.png)
 
 **Abstract Class**
 
@@ -2553,6 +2585,8 @@ Operasyonlardan override edilecek olanların uygulandığı sınıflardır.
 **Visitor:** Behavioral Patterns gurubu içerisinde yer alan Visitor tasarım şablonu, bir sınıf hiyerarşisinde yeralan sınıflar üzerinde değişiklik yapmadan, bu sınıflara yeni metodların eklenmesini kolaylaştırır.İstenilen metod bir visitor sınıfında
 
 implemente edilir. Bileşik bir yapı üzerine yeni işlemler eklenmesine olanak sağlar. Ziyaretçi nesne bileşik yapı içindeki nesneleri tek tek ziyaret ederek gerekli bilgileri toplayıp işleyerek kullanıcıya sunar.
+
+![etiket](https://github.com/ankabeta/design-patterns-for-peopleops/blob/main/Images/24.png)
  
 Örneğimizi de şu şekilde tasarlayalım: Mesela bir tablet sınıfımız var ve bu sınıftan türeyen bazı tabletlerin wifi özelliği var bazılarının yok aynı şekilde bir kısmının 4.5G özelliği var bir kısmının yok. Böyle olunca tabletlerin türetildiği tablet abstract sınıfına WifiAc(), 4.5GAc() gibi metot tanımlamamız çok saçma olur. Çünkü Wifi özelliği olmayan bir tablette bu metodu kullanabilir olur böyle olunca. Diğer bir yöntemde wifisi olan sınıfları bulup tek tek wifi açma metodunu eklemek ama buda kodu çok anlaşılmaz hale getirecektir. Aynı zamanda sınıfımıza başka bir özellik eklemek istediğimizde yine sınıfımıza müdahale etmek zorunda kalırız. Bu durumu ortadan kaldırmak için istenilen işleri yapan visitor sınıfları yazıp Accept metodu ile bu sınıfların içerisindeki metodları istediğimiz sınıflar için çalıştırabiliriz.
  
